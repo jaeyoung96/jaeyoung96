@@ -6,6 +6,8 @@
 >https://hobinjeong.medium.com/cnn%EC%97%90%EC%84%9C-pooling%EC%9D%B4%EB%9E%80-c4e01aa83c83
 
 >https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=laonple&logNo=220914873095
+
+>https://velog.io/@lolo5329/%EB%85%BC%EB%AC%B8-%EC%9A%94%EC%95%BD-Visualizing-and-Understanding-Convolutional-Networks
 <!--
 **jaeyoung96/jaeyoung96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
