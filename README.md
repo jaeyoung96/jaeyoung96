@@ -2,6 +2,11 @@
 >https://arclab.tistory.com/164
 
 >https://velog.io/@lolo5329/%EB%85%BC%EB%AC%B8-%EC%9A%94%EC%95%BD-Visualizing-and-Understanding-Convolutional-Networks
+
+>ytrqwe12@gmail.com
+
+>https://public.roboflow.com/object-detection
+>
 <!--
 **jaeyoung96/jaeyoung96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
