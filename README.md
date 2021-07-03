@@ -31,12 +31,12 @@ Speed meter 대신 rotary encoder등을 통해 속도 제어
 ![Screenshot from 2021-06-25 18-40-28](https://user-images.githubusercontent.com/68285548/123405613-f5523f80-d5e4-11eb-9acf-9628105d1307.png)
 
 >1.  주 1회 1시간정도 내외로 프로젝트 관련 회의 진행(7월은 월요일 8,9월은 주 2회 진행)
-
-2.  전체적인 프로젝트 
-	1) 카메라와 Lidar센서를 활용하여 자율주행 차량 구현
-	2) Sensor Fusing
-	3) CAN 통신 활용
-
+>
+>2.  전체적인 프로젝트 
+>	1) 카메라와 Lidar센서를 활용하여 자율주행 차량 구현
+>	2) Sensor Fusing
+>	3) CAN 통신 활용
+>
 3. H/W
 STEP 1.  필요한 부품(자료 조사)
     • USB 카메라 X 3
