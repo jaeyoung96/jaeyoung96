@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=250&section=header&text=Jaeyoung%20Bae&fontSize=80&animation=fadeIn&fontAlign=50&fontAlignY=30&desc=Welcome&descSize=40)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyoung96&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyoung96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 <img align="center" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <a href="https://velog.io/@jae0_bae" target="_blank"><img align="center" src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="mailto:john8567733@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaeyoung96&count_bg=%23070F01&title_bg=%235B9C17&icon=linux.svg&icon_color=%230B0A0A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                
