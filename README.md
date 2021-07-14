@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ## 🛠Stack🛠
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyoung96&show_icons=true&bg_color=1f2023,282a36,291B3E)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyoung96&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyoung96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
