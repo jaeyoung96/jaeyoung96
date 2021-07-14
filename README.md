@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <a href="https://velog.io/@jae0_bae" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="mailto:john8567733@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyoung96)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyoung96&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
