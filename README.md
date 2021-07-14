@@ -1,5 +1,4 @@
-### Hi there 👋
-<!--
+<!--### Hi there 👋
 **jaeyoung96/jaeyoung96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,10 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🛠Stack🛠
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyoung96&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyoung96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠Stack🛠
 <img align="center" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img align="center" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <a href="https://velog.io/@jae0_bae" target="_blank"><img align="center" src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
